@@ -11,7 +11,7 @@ Just removes the Fab Button from Unreal Engine 5 Content Browser.
 Because my muscle memory made me pressing wrong button.
 
 ## Just disable Fab?
-I still want to use it, I just want this button in Content Browser.
+I still want to use it, I just don't want to have this button in the Content Browser.
 
 ## How to open it then?
 `Windw -> Fab`  
